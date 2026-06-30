@@ -81,7 +81,7 @@ const TYPED_LINES = [
   "...",
   "> celamat ulang tahun yaa cayang",
   "...",
-  "> tungguin cebentar agi loading",
+  "> tungguin cebentar, agi loading",
   "...",
   "٩(◕‿◕)۶ ٩(◕‿◕)۶ ٩(◕‿◕)۶"
 ];
